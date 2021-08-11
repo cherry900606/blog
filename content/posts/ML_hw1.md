@@ -2,7 +2,7 @@
 title: "李宏毅機器學習2020_hw1"
 date: 2021-08-08T14:35:19+08:00
 draft: false
-toc: false
+toc: true
 images:
 tags: 
   - 機器學習

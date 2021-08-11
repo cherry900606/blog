@@ -2,7 +2,7 @@
 title: "Nand2tetris 筆記"
 date: 2021-08-07T20:47:40+08:00
 draft: false
-toc: false
+toc: true
 images:
 tags: 
   - note
