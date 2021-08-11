@@ -9,7 +9,7 @@ date = "2021-05-18"
 *Sep. 2019 - Present*
 
 * B.S. in Computer Science
-* Overall GPA: 4.03/4.2
+* Overall GPA: 4.03/4.3
 
 ## Certifications
 ### CPE (Oct. 2019)
