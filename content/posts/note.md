@@ -6,6 +6,7 @@ toc: true
 images:
 tags: 
   - note
+  - blog
 ---
 
 ## 架站教學
