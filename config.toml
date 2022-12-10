@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "About CS and my studying"
+  homeSubtitle = "About CS and my study"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -60,6 +60,10 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[params.social]]
     name = "github"
     url = "https://github.com/cherry900606"
+	
+  [[params.social]]
+    name = "email"
+    url = "mailto:cherry900606@gmail.com"
 
 [menu]
 
