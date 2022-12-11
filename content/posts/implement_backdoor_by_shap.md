@@ -9,7 +9,7 @@ tags:
 ---
 
 ## 簡介
-這次我用在論文閱讀中學到的方法練習實作後門攻擊。使用的是部份的 EMBER 資料集，包含 9999 筆資料，其中前 5000 筆的 label 是 0 (benign),其餘是 1 (malware)。
+這次我用在[論文閱讀](https://cherry900606.github.io/posts/explanation-guided_backdoor_poisoning_attacks_against_malware_classifiers/)中學到的方法練習實作後門攻擊。使用的是部份的 EMBER 資料集，包含 9999 筆資料，其中前 5000 筆的 label 是 0 (benign),其餘是 1 (malware)。
 
 我先將讀入的資料做簡單的預處理(shuffle + 正規化)，接著切割成 train, test set 後餵給 model，再用得到的 model 跟 shap 套件得到 shap 值。
 
